@@ -41,7 +41,7 @@
         right: 0;
         width: 100%;
         height: 100%;
-        background-color: #0044ff;
+        background-color: #0000006c;
 
         flex-direction: column;
         align-items: center;
@@ -76,11 +76,11 @@
 /* Perfil 1 */
 
 @media screen and (max-width: 900px) {
-    .primeiros-perfils .bloco:nth-child(3){
+    .primeiros-profiles .bloco:nth-child(3){
         display: none;
     }
 
-    .primeiros-perfils .bloco:nth-child(1){
+    .primeiros-profiles .bloco:nth-child(1){
         transform: translateY(0px);
     }    
 }
@@ -91,17 +91,17 @@
         white-space: nowrap;
     }
 
-    .primeiros-perfils{
+    .primeiros-profiles{
         padding: 0px 10px 0px 10px;
     }
 
-    .primeiros-perfils .bloco{
+    .primeiros-profiles .bloco{
         margin: 0px 3px 0px 0px;
         width: 135px;
         height: 160px;    
     }
 
-    .primeiros-perfils .bloco div{
+    .primeiros-profiles .bloco div{
         font-size: 7px;
         width: 135px;
         margin-top: 150px;
@@ -128,19 +128,19 @@
         white-space: nowrap;
     }
 
-    .primeiros-perfils .bloco{
+    .primeiros-profiles .bloco{
         margin: 0px 3px 0px 0px;
         width: 135px;
         height: 160px;    
     }
 
-    .primeiros-perfils .bloco div{
+    .primeiros-profiles .bloco div{
         font-size: 7px;
         width: 135px;
         margin-top: 150px;
     }
     
-    .primeiros-perfils .bloco:nth-child(2){
+    .primeiros-profiles .bloco:nth-child(2){
         display: none;
     }
     
@@ -149,27 +149,27 @@
 /* Perfil 2 */
 
 @media screen and (max-width: 900px) {
-    .segundos-perfils .bloco:nth-child(3){
+    .segundos-profiles .bloco:nth-child(3){
         display: none;
     }
 
-    .segundos-perfils .bloco:nth-child(1){
+    .segundos-profiles .bloco:nth-child(1){
         transform: translateY(0px);
     }    
 }
 
 @media screen and (max-width: 680px) {
-    .segundos-perfils{
+    .segundos-profiles{
         padding: 0px 10px 0px 10px;
     }
 
-    .segundos-perfils .bloco{
+    .segundos-profiles .bloco{
         margin: 0px 3px 0px 0px;
         width: 135px;
         height: 160px;    
     }
 
-    .segundos-perfils .bloco div{
+    .segundos-profiles .bloco div{
         font-size: 7px;
         width: 135px;
         margin-top: 150px;
@@ -196,19 +196,19 @@
         white-space: nowrap;
     }
 
-    .segundos-perfils .bloco{
+    .segundos-profiles .bloco{
         margin: 0px 3px 0px 0px;
         width: 135px;
         height: 160px;    
     }
 
-    .segundos-perfils .bloco div{
+    .segundos-profiles .bloco div{
         font-size: 7px;
         width: 135px;
         margin-top: 150px;
     }
     
-    .segundos-perfils .bloco:nth-child(2){
+    .segundos-profiles .bloco:nth-child(2){
         display: none;
     }
     
@@ -216,38 +216,38 @@
 
 /* Perfil 3 */
 
-@media screen and (max-width: 1200px) {
-    .terceiros-perfils .bloco:nth-child(3){
+@media screen and (max-width: 1100px) {
+    .terceiros-profiles .bloco:nth-child(5){
         display: none;
     }
     
-    .terceiros-perfils .bloco:nth-child(5){
+    .terceiros-profiles .bloco:nth-child(3){
         display: none;
     }
 }
 
-@media screen and (max-width: 900x) {
-    .terceiros-perfils .bloco:nth-child(2){
+@media screen and (max-width: 900px) {
+    .terceiros-profiles .bloco:nth-child(4){
         display: none;
     }
     
-    .terceiros-perfils .bloco:nth-child(1){
+    .terceiros-profiles .bloco:nth-child(1){
         transform: translateY(0px);
     }    
 }
 
 @media screen and (max-width: 680px) {
-    .terceiros-perfils{
+    .terceiros-profiles{
         padding: 0px 10px 0px 10px;
     }
 
-    .terceiros-perfils .bloco{
+    .terceiros-profiles .bloco{
         margin: 0px 3px 0px 0px;
         width: 135px;
         height: 160px;    
     }
 
-    .terceiros-perfils .bloco div{
+    .terceiros-profiles .bloco div{
         font-size: 7px;
         width: 135px;
         margin-top: 150px;
@@ -255,19 +255,19 @@
 }
 
 @media screen and (max-width: 390px) {
-    .terceiros-perfils .bloco{
+    .terceiros-profiles .bloco{
         margin: 0px 3px 0px 0px;
         width: 135px;
         height: 160px;    
     }
 
-    .terceiros-perfils .bloco div{
+    .terceiros-profiles .bloco div{
         font-size: 7px;
         width: 135px;
         margin-top: 150px;
     }
     
-    .terceiros-perfils .bloco:nth-child(4){
+    .terceiros-profiles .bloco:nth-child(2){
         display: none;
     }
     

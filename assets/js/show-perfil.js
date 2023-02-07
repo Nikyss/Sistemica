@@ -1,5 +1,5 @@
 const btnSeta = document.querySelector('#seta');
-const container = document.querySelector('.content-seta-perfils');
+const container = document.querySelector('.content-seta-profiles');
 
 btnSeta.addEventListener('click', function() {
   const containerDisplay = window.getComputedStyle(container).display;
